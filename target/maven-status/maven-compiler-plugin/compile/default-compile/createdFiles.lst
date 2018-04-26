@@ -1,7 +1,0 @@
-com/iqmsoft/freemarker/FreemarkerEmailSampleApplication.class
-com/iqmsoft/freemarker/service/MailServiceImpl.class
-META-INF/spring-configuration-metadata.json
-com/iqmsoft/freemarker/bean/Mail.class
-com/iqmsoft/freemarker/config/EmailProperties.class
-com/iqmsoft/freemarker/service/MailService.class
-com/iqmsoft/freemarker/config/ApplicationConfig.class
