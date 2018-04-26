@@ -1,0 +1,6 @@
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/FreemarkerEmailSampleApplication.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/config/ApplicationConfig.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/service/MailService.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/service/MailServiceImpl.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/config/EmailProperties.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2UnderTowFmMail/src/main/java/com/iqmsoft/freemarker/bean/Mail.java
